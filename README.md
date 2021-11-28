@@ -202,6 +202,3 @@ $ npm start
 
 이 프로젝트는 [원티드 프리온보딩 백엔드 코스](https://www.wanted.co.kr/events/pre_onboarding_course_4) 7차 과제 일환으로 카닥에서 출제한 과제를 기반으로 만들었습니다.
 
-```
-
-```
